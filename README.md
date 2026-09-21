@@ -1,3 +1,5 @@
+20260922版本
+
 <p align="center">
   <img src="assets/cover.png" alt="Anti-Defensive Writing" width="100%">
 </p>
